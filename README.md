@@ -3,6 +3,8 @@ this will add a new command line, subl, to open files with sublime text within g
 
 First, you need to create .bash_profile under /users/username directory.
 
+you can check your home folder by typing echo ~ in your git bash.
+
 this will set the PATH and other environmental variables for the shell.
 
 and then edit with sublime or notepad the .bash_profile file and add the below command
@@ -30,8 +32,6 @@ This will only work if you are logged in via console. if you want the add the al
 
 
 you can download .modified .bashsrc and .bash_profile and paste it on your home folder as well(/users/username)
-
-you can check your home folder by typing echo ~ in your git bash.
 
 http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
 

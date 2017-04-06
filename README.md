@@ -22,10 +22,10 @@ you can simply open your git bash and type the below commend to create the .bash
 echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bash_profile
 
 
-This will only work if you are logged in via console. if you want the add the alias for every users, you can create .bashsrc file instead
+This will only work if you are logged in via console. if you want the add the alias for every users, you can create .bashrc file instead
 
 
-echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bashsrc
+echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bashrc
 
 
 you can download .modified .bashsrc and .bash_profile and paste it on your home folder as well(/users/username)
@@ -34,4 +34,4 @@ you can check your home folder by typing echo ~ in your git bash.
 
 http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
 
-the link above explains the difference between bash_profile and bashsrc
+the link above explains the difference between bash_profile and bashrc

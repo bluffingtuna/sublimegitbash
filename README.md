@@ -15,9 +15,15 @@ and then edit with sublime or notepad the .bash_profile file and add the below c
 
 
 -----------------------------------------
-# Shortcut!!!
+## Shortcut!!!
 -----------------------------------------
+### you can simply download .bashrc or .bash_profile to /users/username directory and done with it.
 
+----------------------------------------
+
+
+## or you can create file and modified within git bash
+-----------------------------------------
 
 
 you can simply open your git bash and type the below command to create the modified .bash_profile in your home directory.

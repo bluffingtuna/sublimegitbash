@@ -7,25 +7,25 @@ this will set the PATH and other environmental variables for the shell.
 
 and then edit the .bash_profile file and add the below commend
 
-alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
+##alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
 
 
 
 
 
-Shortcut!!!
+#Shortcut!!!
 
 
 
 you can simply open your git bash and type the below commend to create the .bash_profile in your home directory.
 
-echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bash_profile
+##echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bash_profile
 
 
 This will only work if you are logged in via console. if you want the add the alias for every users, you can create .bashrc file instead
 
 
-echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bashrc
+##echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bashrc
 
 
 you can download .modified .bashsrc and .bash_profile and paste it on your home folder as well(/users/username)

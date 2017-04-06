@@ -19,7 +19,7 @@ and then edit with sublime or notepad the .bash_profile file and add the below c
 
 ## Shortcut!!!
 -----------------------------------------
-### you can simply download .bashrc or .bash_profile to /users/username directory and done with it.
+#### you can simply download .bashrc or .bash_profile to /users/username directory and done with it.
 
 
 
@@ -29,7 +29,7 @@ and then edit with sublime or notepad the .bash_profile file and add the below c
 ## or you can create file and modified within git bash
 -----------------------------------------
 
-### you can use your git bash and type the below command to create the modified .bash_profile in your home directory.
+#### you can use your git bash and type the below command to create the modified .bash_profile in your home directory.
 
 #### $echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bash_profile
 

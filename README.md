@@ -31,3 +31,7 @@ echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.ba
 you can download .modified .bashsrc and .bash_profile and paste it on your home folder as well(/users/username)
 
 you can check your home folder by typing echo ~ in your git bash.
+
+http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+
+the link above explains the difference between bash_profile and bashsrc

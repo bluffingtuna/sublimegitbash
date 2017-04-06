@@ -1,4 +1,6 @@
 # sublimegitbash
+
+## Introduction
 this will add a new command line, subl, to open files with sublime text within git bash.
 
 First, you need to create .bash_profile under /users/username directory.
@@ -9,15 +11,17 @@ this will set the PATH and other environmental variables for the shell.
 
 and then edit with sublime or notepad the .bash_profile file and add the below command
 
-#### alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
+##### alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
 
 
 
+# Installation
 
------------------------------------------
 ## Shortcut!!!
 -----------------------------------------
 ### you can simply download .bashrc or .bash_profile to /users/username directory and done with it.
+
+
 
 ----------------------------------------
 
@@ -25,16 +29,15 @@ and then edit with sublime or notepad the .bash_profile file and add the below c
 ## or you can create file and modified within git bash
 -----------------------------------------
 
+### you can use your git bash and type the below command to create the modified .bash_profile in your home directory.
 
-you can simply open your git bash and type the below command to create the modified .bash_profile in your home directory.
-
-#### echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bash_profile
+#### $echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bash_profile
 
 
 This will only work if you are logged in via console. if you want the add the alias for every users, you can create .bashrc file instead
 
 
-#### echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bashrc
+#### $echo 'alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"' >> ~/.bashrc
 
 
 you can download .modified .bashsrc and .bash_profile and paste it on your home folder as well(/users/username)

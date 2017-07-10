@@ -1,7 +1,7 @@
 # sublimegitbash
 
 ## Introduction
-this will add a new command line, subl, to open files with sublime text within git bash.
+this will add a new command line (subl) commend to open files with sublime text within git bash.
 
 First, you need to create .bash_profile under /users/username directory.
 
